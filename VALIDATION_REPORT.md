@@ -1,0 +1,88 @@
+# Validation Report - solo-travel-safety
+
+Generated: 2026-06-02T19:22:07.489257
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Solo Travel Safety
+- ✓ Article word count OK: Beginner Solo Travel Safety: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Solo Travel Safety
+- ✓ Article word count OK: Beginner Solo Travel Safety Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Solo Travel Safety
+- ✓ Article word count OK: Beginner Solo Travel Safety in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Solo Travel Safety
+- ✓ Article word count OK: Common Mistakes in Beginner Solo Travel Safety
+- ✓ Article word count OK: Beginner Solo Travel Safety for Beginners
+- ✓ Article word count OK: Advanced Beginner Solo Travel Safety Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Solo Travel Safety
+- ✓ Article word count OK: Advanced Solo Travel Safety: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Solo Travel Safety
+- ✓ Article word count OK: Advanced Solo Travel Safety Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Solo Travel Safety
+- ✓ Article word count OK: Advanced Solo Travel Safety in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Solo Travel Safety
+- ✓ Article word count OK: Common Mistakes in Advanced Solo Travel Safety
+- ✓ Article word count OK: Advanced Solo Travel Safety for Beginners
+- ✓ Article word count OK: Advanced Advanced Solo Travel Safety Techniques
+- ✓ Article word count OK: The Ultimate Guide to Solo Travel Safety Tips
+- ✓ Article word count OK: Solo Travel Safety Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Solo Travel Safety Tips
+- ✓ Article word count OK: Solo Travel Safety Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Solo Travel Safety Tips
+- ✓ Article word count OK: Solo Travel Safety Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Solo Travel Safety Tips
+- ✓ Article word count OK: Common Mistakes in Solo Travel Safety Tips
+- ✓ Article word count OK: Solo Travel Safety Tips for Beginners
+- ✓ Article word count OK: Advanced Solo Travel Safety Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Solo Travel Safety History
+- ✓ Article word count OK: Solo Travel Safety History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Solo Travel Safety History
+- ✓ Article word count OK: Solo Travel Safety History Tips and Best Practices
+- ✓ Article word count OK: The History of Solo Travel Safety History
+- ✓ Article word count OK: Solo Travel Safety History in 2026: Current Trends
+- ✓ Article word count OK: Future of Solo Travel Safety History
+- ✓ Article word count OK: Common Mistakes in Solo Travel Safety History
+- ✓ Article word count OK: Solo Travel Safety History for Beginners
+- ✓ Article word count OK: Advanced Solo Travel Safety History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Solo Travel Safety
+- ✓ Article word count OK: Trending Solo Travel Safety: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Solo Travel Safety
+- ✓ Article word count OK: Trending Solo Travel Safety Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Solo Travel Safety
+- ✓ Article word count OK: Trending Solo Travel Safety in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Solo Travel Safety
+- ✓ Article word count OK: Common Mistakes in Trending Solo Travel Safety
+- ✓ Article word count OK: Trending Solo Travel Safety for Beginners
+- ✓ Article word count OK: Advanced Trending Solo Travel Safety Techniques
+- ✓ Article word count OK: The Ultimate Guide to Solo Travel Safety Tutorials
+- ✓ Article word count OK: Solo Travel Safety Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Solo Travel Safety Tutorials
+- ✓ Article word count OK: Solo Travel Safety Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Solo Travel Safety Tutorials
+- ✓ Article word count OK: Solo Travel Safety Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Solo Travel Safety Tutorials
+- ✓ Article word count OK: Common Mistakes in Solo Travel Safety Tutorials
+- ✓ Article word count OK: Solo Travel Safety Tutorials for Beginners
+- ✓ Article word count OK: Advanced Solo Travel Safety Tutorials Techniques
+- ✓ Ad configuration validated
